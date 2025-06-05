@@ -1,5 +1,8 @@
 # TESTE-SIGNO
 
+Link para o video de Testes:
+https://drive.google.com/file/d/1HOiMg5LyPLlJ0Du025CsU3DNXEG1qWeC/view?usp=drive_link
+
 Script para Criação de Enquetes
 
 COMO UTILIZAR:
